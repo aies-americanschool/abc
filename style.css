@@ -589,7 +589,7 @@ text-align: center;
 .school{
   /* height: 100%; */
   /* width: 33.33333%; */
-  border-right: 4px solid white;
+/*   border-right: 4px solid white; */
   /* background-color: rgb(41, 230, 236); */
   background-color:#64B7D7;
 
@@ -597,7 +597,7 @@ text-align: center;
 .hills{
   /* height: 100%; */
   /* width: 33.33333%; */
-  border-right: 4px solid white;
+/*   border-right: 4px solid white; */
   background-color:#64B7D7;
 
 }
